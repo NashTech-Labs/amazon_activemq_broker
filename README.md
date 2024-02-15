@@ -9,10 +9,10 @@ This Terraform configuration creates an Amazon MQ broker with the specified sett
 
 ## Terraform Resources
 
-### Amazon MQ Broker
-### Amazon MQ Configuration
-### VPC, Subnets, Route Tables, and Internet Gateway
-### Security Group
+#### Amazon MQ Broker
+#### Amazon MQ Configuration
+#### VPC, Subnets, Route Tables, and Internet Gateway
+#### Security Group
 
 
 ## Usage
